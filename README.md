@@ -6,7 +6,8 @@
 - 👾 Discord: SulkyMarsh #1115
 - 👩‍💻 LinkedIn: gabrielledonald008
 
-[![Gabriellenoelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellenoelle)](https://github.com/gabriellenoelle/github-readme-stats)
+[![Gabriellenoelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellenoelle)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---

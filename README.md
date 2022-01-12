@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>Gabrielle Noelle Donald</b>! I consider myself a lifelong student -- always curious, and always improving
+- 👋 Hi, I’m <b>Gabrielle Noelle Donald</b>! I consider myself a lifelong student -- always curious, always learning, and always improving
 - 👀 I’m a full-stack software engineer, with a strong interest in back-end code
 - 👾 I love Node.js
 - 💯 I have a bachelor's degree in anthropology

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>Gabrielle Noelle</b>!
+- 👋 Hi, I’m <b>Gabrielle Noelle Donald</b>!
 - 👀 I’m a full-stack software engineer, with a strong interest in back-end code.
 - 👾 I love Node.js.
 - 📫 How to reach me: gabrielle.donald8@gmail.com 📨

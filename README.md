@@ -1,7 +1,8 @@
 - 👋 Hi, I’m <b>Gabrielle Noelle Donald</b>! I consider myself a lifelong student -- always curious, always learning, and always improving
 - 👀 I’m a full-stack software engineer, with a strong interest in back-end code
 - 👾 I love Node.js
-- 💯 I have a bachelor's degree in anthropology
+- By the first week of February, I will have my Certificate in Full-Stack Engineering from UCF
+- 💯 I have a Bachelor's degree in Anthropology from USF
 - 📫 How to reach me: gabrielle.donald8@gmail.com 📨
 - 👾 Discord: SulkyMarsh #1115
 - 👩‍💻 LinkedIn: gabrielledonald008

@@ -3,7 +3,6 @@
 - 👾 By the first week of February, I will have my Certificate in Full-Stack Engineering from UCF
 - 💯 I have a Bachelor's degree in Anthropology from USF
 - 📫 How to reach me: gabrielle.donald8@gmail.com 📨
-- 🖥 Discord: SulkyMarsh #1115
 - 👩‍💻 LinkedIn: https://www.linkedin.com/in/gabrielledonald008/
 
 [![Gabriellenoelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellenoelle)](https://github.com/anuraghazra/github-readme-stats)

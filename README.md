@@ -3,6 +3,7 @@
 - 👾 By the first week of February, I will have my Certificate in Coding from UCF
 - 💯 I have a Bachelor's degree in Anthropology from USF
 - 📫 How to reach me: gabrielle.donald8@gmail.com 📨
+- ☎ (727) 742-7237
 - 👩‍💻 LinkedIn: https://www.linkedin.com/in/gabrielledonald008/
 
 [![Gabriellenoelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellenoelle)](https://github.com/anuraghazra/github-readme-stats)

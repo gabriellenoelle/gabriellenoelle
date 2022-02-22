@@ -4,7 +4,11 @@
 - 💯 I have a Bachelor's degree in Anthropology from USF
 - 📫 How to reach me: gabrielle.donald8@gmail.com 📨
 - ☎ (727) 742-7237
-- 👩‍💻 LinkedIn: https://www.linkedin.com/in/gabrielledonald008/
+- 👩‍💻 LinkedIn: https://www.linkedin.com/in/gabrielledonald008/ <br/><br/>
+
+<iframe src="https://api.badgr.io/public/assertions/7KcX_f6fTqGYnFJWPFpSJA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=gabrielle.donald8%40gmail.com" title="Badge: UCF Coding Boot Camp (Full-Stack Web Development)[Part-Time]" style="width: 330px; height: 191px; border: 0px;"></iframe>
+
+<br/><br/>
 
 [![Gabriellenoelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellenoelle)](https://github.com/anuraghazra/github-readme-stats)
 

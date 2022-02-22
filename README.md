@@ -6,8 +6,8 @@
 - ☎ (727) 742-7237
 - 👩‍💻 LinkedIn: https://www.linkedin.com/in/gabrielledonald008/ <br/>
 
-Full Stack Web Development - Issued Feb 2022 · No Expiration DateIssued Feb 2022 · No Expiration Date
-Credential ID 621544096942a455161d8222Credential ID 621544096942a455161d8222 <br/>
+* Full Stack Web Development - Issued Feb 2022 · No Expiration Date <br/>
+* Credential ID 621544096942a455161d8222Credential ID 621544096942a455161d8222 <br/>
 
 ![assertion-7KcX_f6fTqGYnFJWPFpSJA](https://user-images.githubusercontent.com/88753098/155224429-ff2a3b23-80eb-42aa-929a-41f88083b7f0.png)
 

@@ -6,7 +6,7 @@
 - ☎ (727) 742-7237
 - 👩‍💻 LinkedIn: https://www.linkedin.com/in/gabrielledonald008/ <br/><br/>
 
-<iframe src="https://api.badgr.io/public/assertions/7KcX_f6fTqGYnFJWPFpSJA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=gabrielle.donald8%40gmail.com" title="Badge: UCF Coding Boot Camp (Full-Stack Web Development)[Part-Time]" style="width: 330px; height: 191px; border: 0px;"></iframe>
+![assertion-7KcX_f6fTqGYnFJWPFpSJA](https://user-images.githubusercontent.com/88753098/155224429-ff2a3b23-80eb-42aa-929a-41f88083b7f0.png)
 
 <br/><br/>
 

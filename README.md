@@ -2,7 +2,7 @@
 - 👋 Hi, I’m <b>Gabrielle Noelle Donald</b>! I consider myself a lifelong student -- always curious, always learning, and always improving
 - 👀 I’m a full-stack software engineer, and I work in the MERN stack -- always learning more, though!
 - 👾 Certificate in Full-Stack Software Engineering/Coding from UCF
-- 💯 I have a Bachelor's degree in Anthropology from USF
+- 💯 Bachelor's degree in Anthropology/Archaeology from USF
 - 📫 How to reach me: gabrielle.donald8@gmail.com 📨
 - ☎ (727) 742-7237
 - 👩‍💻 LinkedIn: https://www.linkedin.com/in/gabrielledonald008/ <br/>

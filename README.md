@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m <b>Gabrielle Noelle Donald</b>! I consider myself a lifelong student -- always curious, always learning, and always improving
-- 👀 I’m a full-stack software engineer, and I work in the MERN stack -- always learning more, though!
+- 👀 I’m a perl developer at unilink group!
 - 👾 Certificate in Full-Stack Software Engineering/Coding from UCF
 - 💯 Bachelor's degree in Anthropology/Archaeology from USF
 - 📫 How to reach me: gabrielle.donald8@gmail.com 📨

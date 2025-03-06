@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m <b>Gabrielle Noelle Donald</b>! I consider myself a lifelong student -- always curious, always learning, and always improving
-- 👀 I’m a Unix & Perl developer at UniLink Group!
+- 👀 Stay-at-home mother looking to get back into the industry; over 1 year professional experience
 - 👾 Certificate in Full-Stack Software Engineering/Coding from UCF
 - 💯 Bachelor's degree in Anthropology/Archaeology from USF
 - 📫 How to reach me: gabrielle.donald8@gmail.com 📨
